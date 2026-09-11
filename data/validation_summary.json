@@ -1,0 +1,16 @@
+{
+  "documents": 15,
+  "all_documents_500_3000_words": true,
+  "topic_counts": {
+    "HR & Workplace": 5,
+    "IT & Security": 5,
+    "Business Operations & Compliance": 5
+  },
+  "golden_total": 20,
+  "easy": 8,
+  "medium": 8,
+  "hard_edge": 4,
+  "answerable": 16,
+  "unanswerable": 4,
+  "one_pager_word_count": 429
+}

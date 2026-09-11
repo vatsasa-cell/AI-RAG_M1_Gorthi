@@ -1,0 +1,77 @@
+[
+  {
+    "document": "01_employee_handbook.md",
+    "word_count": 522,
+    "major_topic": "HR & Workplace"
+  },
+  {
+    "document": "02_leave_pto_policy.md",
+    "word_count": 646,
+    "major_topic": "HR & Workplace"
+  },
+  {
+    "document": "03_remote_work_policy.md",
+    "word_count": 614,
+    "major_topic": "HR & Workplace"
+  },
+  {
+    "document": "04_employee_benefits.md",
+    "word_count": 551,
+    "major_topic": "HR & Workplace"
+  },
+  {
+    "document": "05_performance_management.md",
+    "word_count": 546,
+    "major_topic": "HR & Workplace"
+  },
+  {
+    "document": "06_travel_expense_policy.md",
+    "word_count": 520,
+    "major_topic": "Business Operations & Compliance"
+  },
+  {
+    "document": "07_procurement_policy.md",
+    "word_count": 506,
+    "major_topic": "Business Operations & Compliance"
+  },
+  {
+    "document": "08_information_security_policy.md",
+    "word_count": 540,
+    "major_topic": "IT & Security"
+  },
+  {
+    "document": "09_acceptable_use_policy.md",
+    "word_count": 500,
+    "major_topic": "IT & Security"
+  },
+  {
+    "document": "10_access_management_policy.md",
+    "word_count": 621,
+    "major_topic": "IT & Security"
+  },
+  {
+    "document": "11_data_privacy_policy.md",
+    "word_count": 533,
+    "major_topic": "Business Operations & Compliance"
+  },
+  {
+    "document": "12_code_of_conduct.md",
+    "word_count": 646,
+    "major_topic": "Business Operations & Compliance"
+  },
+  {
+    "document": "13_supplier_management_policy.md",
+    "word_count": 596,
+    "major_topic": "Business Operations & Compliance"
+  },
+  {
+    "document": "14_employee_onboarding_guide.md",
+    "word_count": 647,
+    "major_topic": "IT & Security"
+  },
+  {
+    "document": "15_it_support_service_desk.md",
+    "word_count": 566,
+    "major_topic": "IT & Security"
+  }
+]

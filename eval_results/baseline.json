@@ -1,0 +1,193 @@
+{
+  "summary": {
+    "label": "baseline",
+    "total_questions": 20,
+    "answerable_questions": 16,
+    "hard_edge_questions": 4,
+    "resolved_questions": 0,
+    "answerable_resolution_rate": 0.0,
+    "note": "Fake W5 baseline only; not a measure of real RAG quality."
+  },
+  "results": [
+    {
+      "id": "q01",
+      "difficulty": "Easy",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q02",
+      "difficulty": "Easy",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q03",
+      "difficulty": "Easy",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q04",
+      "difficulty": "Easy",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q05",
+      "difficulty": "Easy",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q06",
+      "difficulty": "Easy",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q07",
+      "difficulty": "Easy",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q08",
+      "difficulty": "Easy",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q09",
+      "difficulty": "Medium",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.1,
+      "sources": [],
+      "expected_answerable": true,
+      "resolved": false
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard/Edge",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.0,
+      "sources": [],
+      "expected_answerable": false,
+      "resolved": false
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard/Edge",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.0,
+      "sources": [],
+      "expected_answerable": false,
+      "resolved": false
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard/Edge",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.0,
+      "sources": [],
+      "expected_answerable": false,
+      "resolved": false
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard/Edge",
+      "answer": "M1 FAKE BASELINE: no RAG answer generated.",
+      "confidence": 0.0,
+      "sources": [],
+      "expected_answerable": false,
+      "resolved": false
+    }
+  ]
+}
