@@ -6,7 +6,11 @@ from src.pipeline.models import Answer, AskRequest
 
 logging.basicConfig(level=logging.INFO)
 
-app = FastAPI(title="TechNova Enterprise Knowledge Assistant", version="0.1.0")
+app = FastAPI(
+    title="M1_EKA_Gorthi API",
+    version="1.0.0",
+    root_path="/proxy/8000"
+)
 
 app.middleware("http")(logging_middleware)
 app.middleware("http")(cost_tracking_middleware)
